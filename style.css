@@ -1,0 +1,10 @@
+.toggle {
+    padding: 10px;
+    background-color: aliceblue;
+    font-size: 1.3rem;
+    margin: 10px;
+}
+.active {
+    background-color: aqua;
+    color: white;
+}
